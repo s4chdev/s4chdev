@@ -8,7 +8,7 @@ self-hosting, automating, and occasionally sleeping. mca '27, jodhpur.
 - building **[chatcart](https://github.com/s4chdev/chatcart)**, an ai shopping agent for the paypal ai hackathon
 - running daily devops labs: containers, iac, config management, pipelines
 
-### some favorites i made
+### a few i'm proud of
 
 | project | what it does |
 |---|---|
