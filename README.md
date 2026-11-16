@@ -1,4 +1,4 @@
-## hey, i'm sachdev
+## sachdev parihar
 
 devops & cloud engineer in the making · mca '27 · jodhpur, india
 
