@@ -5,7 +5,7 @@ self-hosting, automating, and occasionally sleeping. mca '27, jodhpur.
 <img src="https://img.shields.io/badge/open%20to-devops%20%2F%20cloud%20roles-2ea44f?style=flat-square" alt="open to devops / cloud roles">
 
 ### now
-- building **[chatcart](https://github.com/s4chdev/chatcart)**, an ai shopping chat for the paypal ai hackathon
+- building **[chatcart](https://github.com/s4chdev/chatcart)**, an ai shopping chat agent for the paypal ai hackathon
 - running daily devops labs: containers, iac, config management, pipelines
 
 ### things i've built
