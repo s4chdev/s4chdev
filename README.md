@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea44f&height=160&section=header&text=sachdev%20parihar&fontSize=40&fontColor=ffffff&fontAlign=20&fontAlignY=38&desc=devops%20%26%20cloud%20%C2%B7%20mca%20%2727&descAlign=17&descAlignY=58&descSize=16" width="100%" alt="sachdev parihar, devops & cloud">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea44f&height=160&section=header&text=sachdev%20parihar&fontSize=40&fontColor=ffffff&fontAlign=20&fontAlignY=38&desc=devops%20and%20cloud%20%C2%B7%20mca%202027&descAlign=17&descAlignY=58&descSize=16" width="100%" alt="sachdev parihar, devops and cloud">
 
 <a href="https://github.com/s4chdev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=2EA44F&vCenter=true&width=520&lines=self-hosting+everything+i+can;automating+the+boring+parts;docker+%C2%B7+terraform+%C2%B7+ansible+%C2%B7+ci%2Fcd;shipping+small+tools+for+the+web" alt="self-hosting everything i can, automating the boring parts"></a>
 
@@ -26,8 +26,7 @@
 
 ### activity
 
-<img src="https://streak-stats.demolab.com?user=s4chdev&hide_border=true&theme=github-dark-blue&background=0d1117" alt="github streak" height="165">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s4chdev&theme=github_dark" alt="repos per language" height="165">
+<img src="https://streak-stats.demolab.com?user=s4chdev&hide_border=true&theme=github-dark-blue&background=0d1117" alt="github streak" width="49%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s4chdev&theme=github_dark" alt="repos per language" width="49%">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4chdev&bg_color=0d1117&hide_border=true&color=7d8590&line=2ea44f&point=2ea44f&area=true&area_color=2ea44f" alt="contribution graph" width="100%">
 
