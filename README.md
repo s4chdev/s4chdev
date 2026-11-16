@@ -14,6 +14,8 @@ self-hosting, automating, and occasionally sleeping. mca '27, jodhpur.
 |---|---|
 | **[bgswish-engine](https://github.com/s4chdev/bgswish-engine)** | fast in-browser ai background removal |
 | **[hermes-chatgpt-web](https://github.com/s4chdev/hermes-chatgpt-web)** | use chatgpt web like an openai-style api |
+| **[kord](https://github.com/s4chdev/kord)** | self-hostable discord music bot on lavalink, with lyrics, filters and ai chat |
+
 | **[maptoposter-webui](https://github.com/s4chdev/maptoposter-webui)** | printable city map posters from the browser |
 | **[otofx](https://github.com/s4chdev/otofx)** | tiny, dependency-free ui sounds via web audio |
 
