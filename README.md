@@ -1,16 +1,22 @@
-## Hi there 👋
+## hey, i'm sachdev 👋
 
-<!--
-**s4chdev/s4chdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+devops & cloud engineer in the making · mca '27 · jodhpur, india
 
-Here are some ideas to get you started:
+i like self-hosting things, automating the boring parts, and shipping small tools for the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i'm on
+- **[chatcart](https://github.com/s4chdev/chatcart)** — ai shopping chat, built for the paypal ai hackathon
+- learning devops daily: docker, terraform, ansible, ci/cd
+
+### things i've built
+- **[bgswish-engine](https://github.com/s4chdev/bgswish-engine)** — fast in-browser ai background removal
+- **[hermes-chatgpt-web](https://github.com/s4chdev/hermes-chatgpt-web)** — use chatgpt web like an openai-style api
+- **[otofx](https://github.com/s4chdev/otofx)** — tiny, dependency-free ui sounds via web audio
+- **[maptoposter-webui](https://github.com/s4chdev/maptoposter-webui)** — printable city map posters from the browser
+
+### stack
+linux · docker · terraform · ansible · github actions · aws · node.js · python · typescript
+
+### reach me
+[linkedin](https://www.linkedin.com/in/s4chdev)
+
