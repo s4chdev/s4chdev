@@ -6,6 +6,7 @@ self-hosting, automating, and occasionally sleeping. mca '27.
 
 ### now
 - building **[chatcart](https://github.com/s4chdev/chatcart)**, an ai shopping agent for the paypal ai hackathon
+- building **[voxen](https://github.com/s4chdev/voxen)**, peer-to-peer, end-to-end encrypted voice calls from the terminal, in go
 - running daily devops labs: containers, iac, config management, pipelines
 
 ### picks from my repos
